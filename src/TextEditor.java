@@ -23,7 +23,6 @@ public class TextEditor {
                     break;
                 case UNDO:
                     words.pop();
-                    break;
             }
         }
         System.out.println(result);
